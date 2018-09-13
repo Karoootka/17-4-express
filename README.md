@@ -2,4 +2,4 @@
 
 Zadanie wykonane w ramach bootcampu Kodilla - "Web Developer".
 
-Opis: Nauka Expres.js. Serwowanie plików statycznych.
+Opis: Nauka Express.js. Serwowanie plików statycznych.
